@@ -1,7 +1,7 @@
 # 🖧 ICMP Protocol
 
-[![Protocol]
-[![IP]
+[![Protocol].
+[![IP].
 
 ---
 
