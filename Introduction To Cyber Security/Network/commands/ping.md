@@ -53,10 +53,11 @@ Typical output includes:
 ---
 
 ## Visual Diagram (Ping Process)
-
+```
 Your Device                  Target Host
    |                             |
    | -- ICMP Echo Request ------> |
    |                             |
    | <----- ICMP Echo Reply -----|
    |                             |
+```
