@@ -1,7 +1,7 @@
 # 🖧 ICMP Protocol
 
-[![Protocol](https://img.shields.io/badge/Protocol-ICMP-blue)](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol)
-[![IP](https://img.shields.io/badge/IP-Version_4-orange)](https://en.wikipedia.org/wiki/Internet_Protocol)
+[![Protocol]
+[![IP]
 
 ---
 
