@@ -106,25 +106,4 @@ Home LAN → Router → Internet
 - Efficient delivery of packets within LAN  
 - Duration of ARP Cache depends on OS
 
----
 
-## 4️⃣ Packets
-
-**Definition:** Data moves across networks inside **packets**.  
-
-### 🟢 Parts of a Packet
-1. **Header:** Metadata (source, destination, type, sequence)  
-2. **Payload:** Actual data being sent
-
-**Example:**  
-Sending a large file → split into thousands of packets.  
-- Each packet travels independently  
-- Reassembled at destination
-
-**Visual Representation:**
-Packet:
-+-----------------------------+
-| Header: Source, Dest, Type |
-+-----------------------------+
-| Payload: Actual data |
-+-----------------------------+
