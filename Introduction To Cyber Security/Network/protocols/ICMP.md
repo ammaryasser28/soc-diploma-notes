@@ -1,6 +1,4 @@
 # 🖧 ICMP Protocol
-[![Protocol](https://img.shields.io/badge/Protocol-ICMP-blue)]
-[![IP](https://img.shields.io/badge/IP-Version_4-orange)]
 
 ## 📌 Overview
 The **Internet Protocol (IP)** is a **best-effort protocol**, meaning:
