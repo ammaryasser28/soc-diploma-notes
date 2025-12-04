@@ -66,6 +66,4 @@ The header is **8 bytes** long and consists of:
 
 UDP is perfect when **speed** is essential and occasional data loss is acceptable. For full reliability, TCP is the better choice.
 
----
 
-Ready for GitHub 🚀
