@@ -1,5 +1,3 @@
-# 🔐 Types of Encryption Algorithms
-
 ## 📌 Overview
 
 Encryption algorithms are used to protect data by converting it into an unreadable form.  
