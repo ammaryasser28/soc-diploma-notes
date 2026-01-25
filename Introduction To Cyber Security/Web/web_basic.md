@@ -121,6 +121,8 @@
 ### 🔥 500 Series – Server Errors
 - Internal server problems or back-end code failures
 
+<img width="740" height="289" alt="image" src="https://github.com/user-attachments/assets/5e525aa9-f222-4576-8db7-40855da8faa0" />
+
 ---
 
 ## 1️⃣1️⃣ Loading Additional Resources
@@ -161,6 +163,8 @@ If a file moves, the server responds with:
 - **302** → Temporary redirect
 
 The browser automatically follows the new URL.
+
+<img width="738" height="288" alt="image" src="https://github.com/user-attachments/assets/4d14bbf7-ec0f-411e-b5f7-a9254cc0d608" />
 
 ---
 
