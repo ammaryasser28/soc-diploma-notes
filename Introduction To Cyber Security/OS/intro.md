@@ -1,4 +1,4 @@
-# 🚀 Operating Systems Basics for SOC Professionals
+# 🚀 Operating Systems Basics
 
 ---
 
